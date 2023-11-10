@@ -1,0 +1,7 @@
+/* External Styling */
+h1 {
+    color: red; /*make all h1 tags' foreground color as red*/
+}
+p {
+    color: blueviolet;
+}
